@@ -1,3 +1,4 @@
 # AWS_Lightsail_Wordpress_Tutorial
-
-cat $HOME/bitnami_application_password
+ワードプレスのインスタンスを作成.  
+http://PublicIpAddress/wp-login.php // ブラウザでワードプレスにログイン
+cat $HOME/bitnami_application_password // ワードプレスにログインするデフォルトパスワードを表示.      
